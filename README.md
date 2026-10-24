@@ -19,10 +19,10 @@ I bridge Business and Technology teams to turn complex travel operations into sy
 
 | Project | What it is |
 |---|---|
-| 1Booking Pro | The new B2B booking platform for travel agencies and bookers — the system I work on as Platform Expert, bridging business and technology across booking, API and airline integration workstreams |
+| 1Booking Pro | The new B2B booking platform for travel agencies and bookers — built and led by me as PM/PO/BA: roadmap, BRD/CR, booking flows, UI/UX, order and post-booking, supplier integrations, UAT and go-live |
 | 1Booking | The established booking system (versions 1 and 2) that 1Booking Pro succeeds — B2B flight booking for agencies, still in daily operation alongside the new platform |
-| TMS — Travel Management System | Corporate travel management for companies of all sizes — SMEs, corporate accounts and large enterprises, with approval workflows, service booking, expense profiles, settlement and TMS API integrations |
-| 1Tours | Tour booking platform — tour products, listings and booking flows for the tour business |
+| TMS — Travel Management System | Corporate travel management for companies of all sizes — SMEs, corporate accounts and large enterprises. I act as PO: business analysis, travel policy, approval, Trip Request, booking flows and enterprise system integrations |
+| 1Tours | Tour booking platform — tour products, listings and booking flows for the tour business. I act as PO for the pilot: system readiness, permissions, tour data quality and agent onboarding |
 | VeMayBay.vn — B2C Flight Booking | Consumer flight booking website: search, booking and ticketing for end customers |
 | [Check-in Online Guide](https://checkin.aitravel.page/) | Online check-in links & opening times for 125+ airlines flying to/from Vietnam |
 | Hotel Price Scanner | Multi-source hotel rate comparison tool for tour operators |
