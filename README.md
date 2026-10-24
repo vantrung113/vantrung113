@@ -15,13 +15,17 @@ I bridge Business and Technology teams to turn complex travel operations into sy
 - **Corporate travel** — TMS (Travel Management System) workflows: approval, booking, expense profile, settlement, TMS API
 - **AI & automation** — small AI-assisted tools that remove repetitive operational work, built with vibe-coding workflows
 
-## Selected personal projects
+## Selected projects
 
 | Project | What it is |
 |---|---|
+| [1Booking Pro](https://pro.1booking.vn/) | The new B2B booking platform for travel agencies and bookers — the system I work on as Platform Expert, bridging business and technology across booking, API and airline integration workstreams |
+| [1Booking](https://1booking.vn/) | The established booking system (versions 1 and 2) that 1Booking Pro succeeds — B2B flight booking for agencies, still in daily operation alongside the new platform |
+| [TMS — Travel Management System](https://1booking.biz/) | Corporate travel management: approval workflows, service booking, expense profiles, settlement and TMS API integrations for enterprise clients |
+| [1Tours](https://1tours.vn/) | Tour booking platform — tour products, listings and booking flows for the tour business |
+| [VeMayBay.vn — B2C Flight Booking](https://vemaybay.vn/) | Consumer flight booking website: search, booking and ticketing for end customers |
 | [Check-in Online Guide](https://checkin.aitravel.page/) | Online check-in links & opening times for 125+ airlines flying to/from Vietnam |
 | Hotel Price Scanner | Multi-source hotel rate comparison tool for tour operators |
-| Flight Booking B2C — 1Booking Pro Max | Personal B2C flight booking site: search, ancillaries, hold & ticketing via flight hub sandbox |
 | Repo Hub | A searchable library site of my repositories and starred projects |
 | WorkLog Local | Local-first daily work tracker app for macOS |
 | Telegram Vault Bot | Bot that auto-sorts files in a private Telegram vault by hashtag & file type |
