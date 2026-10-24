@@ -20,6 +20,8 @@ I bridge Business and Technology teams to turn complex travel operations into sy
 | Project | What it is |
 |---|---|
 | [Check-in Online Guide](https://checkin.aitravel.page/) | Online check-in links & opening times for 125+ airlines flying to/from Vietnam |
+| Hotel Price Scanner | Multi-source hotel rate comparison tool for tour operators |
+| Flight Booking B2C — 1Booking Pro Max | Personal B2C flight booking site: search, ancillaries, hold & ticketing via flight hub sandbox |
 | Repo Hub | A searchable library site of my repositories and starred projects |
 | WorkLog Local | Local-first daily work tracker app for macOS |
 | Telegram Vault Bot | Bot that auto-sorts files in a private Telegram vault by hashtag & file type |
